@@ -1,0 +1,4 @@
+node_modules/
+.env
+.timer-state.json.env.txt
+.env.txt
